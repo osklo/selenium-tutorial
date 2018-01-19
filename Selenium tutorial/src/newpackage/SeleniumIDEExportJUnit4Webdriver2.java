@@ -1,4 +1,4 @@
-//oskar: File recorded in Selenium IDE (Firefox plugin) and exported as Java JUnit4 WebDriver
+//oskar: File recorded in Selenium IDE (Firefox plugin) and exported as Java JUnit4 WebDriver.
 
 package newpackage;
 
